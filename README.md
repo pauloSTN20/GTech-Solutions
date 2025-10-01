@@ -80,7 +80,7 @@ A fazer
 
 # Registro das Sprints
 
-Sprint | Previsão | Statu |
+Sprint | Previsão | Status |
 |------|--------|------|
 |01 | 01/10/2025 | Completo| 
 |02|  dd/mm/aaaa| a fazer|
