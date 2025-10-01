@@ -80,10 +80,10 @@ A fazer
 
 # Registro das Sprints
 
-Sprint | Previsão | Status| Histórico|
-|------|--------|------|--------|
+Sprint | Previsão | Statu |
+|------|--------|------|
 |01 | 01/10/2025 | Completo| 
 |02|  dd/mm/aaaa| a fazer|
 |03| dd/mm/aaaa | a fazer|
-|04| dd/mm/aaaa |a fazer |[MVP](https://)  | 
-|Feira de Soluções|dd/mm/aaaa |
+|04| dd/mm/aaaa |a fazer |
+
