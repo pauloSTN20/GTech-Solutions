@@ -46,7 +46,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 ## Tecnologias Utilizadas
 - Python (Google Colab)
-- Power BI
+- Power BI 
 - MySQL
 - GitHub
 - CSV / TXT (dados do MDIC)
