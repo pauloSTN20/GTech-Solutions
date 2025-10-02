@@ -62,8 +62,15 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
 | 01    | Alta       | Visualizar exportações por estado, NCM e país de destino para entender o cenário nacional.                                                             | 5          | 1      |
 | 02    | Alta       | identificar as URFs que processamas exportações, para mapear rotas logísticas.​                                                                         | 8          | 1      |
-| 06    | Média      | Obter dados limpos e tabelas no Google Colab para construir dashboards no Power BI.                                                                    | 5          | 1      |
-| 07    | Média      | Padronizar NCM, estados, países e URFs para garantir consistência nos dados.                                                                           | 2          | 1      |
+| 03    | Alta       |Acompanhar o fluxo mensal de cargas (2020–2025) com sazonalidade para planejar políticas públicas.                                                      | 5          | 2      |
+| 04    | Alta       | Padronizar NCM, estados, países e URFs para garantir consistência nos dados.                                                                           | 2          | 2      |
+| 05    | Alta       | Visualizar exportações por estado, NCM e país de destino para entender o cenário nacional.                                                             | 5          | 3      |
+| 06    | Média      | identificar as URFs que processamas exportações, para mapear rotas logísticas.​                                                                         | 8          | 1      |
+| 07    | Média      | Obter dados limpos e tabelas no Google Colab para construir dashboards no Power BI.                                                                    | 5          | 1      |
+| 08    | Média      | Padronizar NCM, estados, países e URFs para garantir consistência nos dados.                                                                           | 2          | 2      |
+| 09    | Baixa      | Obter dados limpos e tabelas no Google Colab para construir dashboards no Power BI.                                                                    | 5          | 3      |
+| 10    | Baixa      | Padronizar NCM, estados, países e URFs para garantir consistência nos dados.                                                                           | 2          | 3      |
+
 
 ## Sprint 1
 - [x] Defina o propósito do template;
