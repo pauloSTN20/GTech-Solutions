@@ -12,7 +12,7 @@ Este projeto tem como finalidade aplicar os conceitos de tecnologia aplicada à 
 * [Backlog do produto](#Backlog-do-produto)
 
 # Projeto (API) 
-Mapeamento e análise das exportações brasileiras de 2020 a 2025, com base em dados brutos do MDIC. O projeto visa desenvolver um painel interativo em Power BI, alimentado por dados tratados em Python (Google Colab) e armazenados em MySQL, permitindo visualizar:
+Mapeamento e análise das exportações brasileiras de 2020 a 2025, com base em dados brutos do MDIC. O projeto visa desenvolver um painel interativo em Power BI, alimentado por dados tratados em Python (Google Colab) , permitindo visualizar:
 
 - Principais estados e produtos exportados (por NCM);
 
@@ -47,14 +47,11 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 ## Tecnologias Utilizadas
 - Python (Google Colab)
 - Power BI 
-- MySQL
+- Jira
 - GitHub
 - CSV / TXT (dados do MDIC)
  ### Tecnologias Específicas/Apoio
-- DB Browser for SQLite / DBeaver
 - Sharepoint
- ### Tecnologias da Informação
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
 
 # Backlog do Produto 
 
