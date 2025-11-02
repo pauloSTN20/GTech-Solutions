@@ -76,7 +76,9 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [x] US - 01   
 - [x] US - 02   
 - [x] US - 06
-- [x] US - 07   
+- [x] US - 07
+
+## MVP 1ª Sprint
 
       
 ## Sprint 2
@@ -89,6 +91,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [x] US - 04 ( inicial ) 
 - [x] US - 08   
 
+## MVP 2ª Sprint
 
 ## Sprint 3
 - [x] Dashboard final refinado com visão geral, logística, sazonalidade e indicadores;
@@ -98,7 +101,9 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [x] US - 04 ( detalhada ) 
 - [x] US - 05   
 - [x] US - 09 
-- [x] US - 10  
+- [x] US - 10
+
+## MVP 3ª Sprint
 
 
 # Registro das Sprints
@@ -106,6 +111,6 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 Sprint | Previsão | Status |
 |------|--------|------|
 |01 | 01/10/2025 | Completo| 
-|02|  dd/mm/aaaa| a fazer|
-|03| dd/mm/aaaa | a fazer|
+|02 | 29/10/2025 | Completo|
+|03 | 26/11/2025 | a fazer|
 
