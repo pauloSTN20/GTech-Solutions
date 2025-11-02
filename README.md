@@ -70,16 +70,9 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 
 ## Sprint 1
-- [x] Defina o propósito do template;
-- [x]  Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [x] Teste e revise;
-- [x] Documente instruções de uso;
+- [x] Dashboard Inicial;
 - [x] Download e armazenamento das bases brutas do MDIC (CSV/TXT);
 - [x] ETL;
-- [x] Dashboard Inicial ;
 - [x] US - 01   
 - [x] US - 02   
 - [x] US - 06
@@ -87,10 +80,25 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
       
 ## Sprint 2
-A fazer 
+- [x] Templete do Power BI atualizado;
+- [x] Análises de série temporal (mensal) e gráficos de sazonalidade (TOP 10 -NCMs);
+- [x] Painel Power BI com filtros interativos e gráfico de fluxo mensal;
+- [x] Mapa de UFs com volumes ao longo do tempo; 
+- [x] US - 02 ( detalhada )
+- [x] US - 03   
+- [x] US - 04 ( inicial ) 
+- [x] US - 08   
+
 
 ## Sprint 3
-A fazer 
+- [x] Dashboard final refinado com visão geral, logística, sazonalidade e indicadores;
+- [x]  Repositório GitHub com código e documentação;
+- [x] Painel Power BI com filtros interativos e gráfico de fluxo mensal;
+- [x] Mapa de UFs com volumes ao longo do tempo; 
+- [x] US - 04 ( detalhada ) 
+- [x] US - 05   
+- [x] US - 09 
+- [x] US - 10  
 
 
 # Registro das Sprints
