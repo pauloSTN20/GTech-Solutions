@@ -78,7 +78,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [x] US - 06
 - [x] US - 07
 
-## MVP 1ª Sprint (https://youtu.be/V6rN1bj06eQ?si=QfIx_iovfUeUbRUf)
+## MVP 1ª Sprint
+> Confira o vídeo explicativo [aqui](https://youtu.be/V6rN1bj06eQ?si=QfIx_iovfUeUbRUf)
 
       
 ## Sprint 2
