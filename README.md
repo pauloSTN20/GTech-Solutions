@@ -90,7 +90,10 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [x] US - 02 ( detalhada )
 - [x] US - 03   
 - [x] US - 04 ( inicial ) 
-- [x] US - 08   
+- [x] US - 08
+
+## MVP 2ª Sprint 
+> Confira o vídeo explicativo [aqui](https://youtu.be/aQ1Q7gjqC5A?si=pk1TbAOm3gU4KIxh)
 
 ## MVP 2ª Sprint
 
