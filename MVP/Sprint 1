@@ -5,7 +5,7 @@
 
 - **Problema que resolve:** Falta de uma visão centralizada e confiável das exportações brasileiras por estado, NCM e país de destino.  
 - **Hipótese a validar:** A padronização e integração dos dados facilitará a criação de dashboards dinâmicos e confiáveis para análise de comércio exterior.  
-- **Valor entregue:** Disponibilizar uma base limpa em MySQL e um dashboard inicial no Power BI, possibilitando insights sobre fluxos e padrões de exportação.  
+- **Valor entregue:** Disponibilizar uma base limpa e um dashboard inicial no Power BI, possibilitando insights sobre fluxos e padrões de exportação.  
 
 ---
 
