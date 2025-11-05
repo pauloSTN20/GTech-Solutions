@@ -95,8 +95,6 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 ## MVP 2ª Sprint 
 > Confira o vídeo explicativo [aqui](https://youtu.be/aQ1Q7gjqC5A?si=pk1TbAOm3gU4KIxh)
 
-## MVP 2ª Sprint
-
 ## Sprint 3
 - [x] Dashboard final refinado com visão geral, logística, sazonalidade e indicadores;
 - [x]  Repositório GitHub com código e documentação;
