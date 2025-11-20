@@ -106,7 +106,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [x] US - 10
 
 ## MVP 3ª Sprint
-
+> Confira o vídeo explicativo [aqui](https://youtu.be/TWnRPZSkCNQ?si=phwZMl7rDqOzsHtB)
 
 # Registro das Sprints
 
